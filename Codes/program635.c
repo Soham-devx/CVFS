@@ -1,4 +1,4 @@
-#include<stdio.h>
+/home/akshay/M_Programs/Programs/C_programs/Practice/Practice/program310.c#include<stdio.h>
 
 int main()
 {
